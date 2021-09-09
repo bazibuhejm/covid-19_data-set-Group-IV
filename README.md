@@ -4,7 +4,7 @@
 ## Communication Protocols:
 - Tuesday Team Meeting @ 7pm
 - Continual communication through Slack
-- Team meeting 9/9 at 7pm
+- Team meeting 9/9 @ 7pm
 
 
 ## Selected Topic: Covid-19 Death Rates: 

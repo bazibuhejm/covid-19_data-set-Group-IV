@@ -1,4 +1,4 @@
-# Covid-19 Deaths, Vaccinations, and other factors
+# Covid-19 Deaths & Vaccinations Analysis
 
 
 ## Communication Protocols:

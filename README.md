@@ -42,6 +42,10 @@ Is country high_risk for covid related deaths?
 How many deaths can be attributable to covid, but not classified as such?
 Excess deaths
 
+## Questions to ask for week 2.
+- Where does the Postsql database "live"?
+-- Do we need our own copy on each of our computers?
+
 ### Database connection example code:
     # Database engine connection
     db_string = f"postgresql://postgres:{db_password}@127.0.0.1:5434/movie_data"

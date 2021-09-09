@@ -18,7 +18,7 @@
 Determine:
 Is country high_risk for covid related deaths?
 -          Hospital beds
--          Comorbidity
+-          Commorbidity
 -          Vax rate
 How many deaths can be attributable to covid, but not classified as such?
 Excess deaths

@@ -44,7 +44,7 @@ Excess deaths
 
 ## Questions to ask for week 2.
 - Where does the Postsql database "live"?
--- Do we need our own copy on each of our computers?
+  - Do we need our own copy on each of our computers?
 
 ### Database connection example code:
     # Database engine connection

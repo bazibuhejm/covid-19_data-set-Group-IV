@@ -1,9 +1,12 @@
-# Communication Protocols:
+# Covid-19 Deaths, Vaccinations, and other factors
+
+
+## Communication Protocols:
 - Tuesday Team Meeting @ 7pm
 - Continual communication through Slack
 - Team meeting 9/9 at 7pm
 
-# covid-19_data-set-Group-IV
+
 ## Selected Topic: Covid-19 Death Rates: 
 Determine principal components most likely to contribute to a higher death rate in a particular country.
 - PCA

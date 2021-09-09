@@ -1,5 +1,5 @@
 # covid-19_data-set-Group-IV
-## Determine principal components from the data that correlate to a higher death rate in a particular country.
+## Determine principal components most likely to contribute to a higher death rate in a particular country.
 
 ## Factors
 -POPULATION

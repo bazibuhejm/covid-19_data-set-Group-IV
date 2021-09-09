@@ -11,7 +11,7 @@
 - Database: Dillon
 - ML Model: Logan
 - Database to ML Model connection: Chris
-- Data Prep: All
+- Data ETL: All
 
 
 ## Selected Topic: Covid-19 Death Rates: 

@@ -6,6 +6,12 @@
 - Continual communication through Slack
 - Team meeting 9/9 @ 7pm
 
+## Roles
+- GitHub: Jean-Marie
+- Database: Dillon
+- ML Model: Logan
+- Database to ML Model connection: Chris
+
 
 ## Selected Topic: Covid-19 Death Rates: 
 Determine principal components most likely to contribute to a higher death rate in a particular country.

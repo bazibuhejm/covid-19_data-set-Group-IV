@@ -42,3 +42,19 @@ Is country high_risk for covid related deaths?
 How many deaths can be attributable to covid, but not classified as such?
 Excess deaths
 
+### Database connection example code:
+    # Database engine connection
+    db_string = f"postgresql://postgres:{db_password}@127.0.0.1:5434/movie_data"
+    engine = create_engine(db_string)
+    movies_df.to_sql(name='movies', con=engine, if_exists='replace')
+    
+    # Opening a connection
+    connection = engine.raw_connection()
+    # Creating a cursor object using the cursor() method
+    cursor = connection.cursor()
+    # Droping ratings table if already exists
+    cursor.execute("DROP TABLE IF EXISTS ratings")
+    # Commit your changes in the database
+    connection.commit()
+    # Closing the connection
+    connection.close()

@@ -6,7 +6,7 @@
 - Continual communication through Slack
 - Team meeting 9/9 @ 7pm
 
-## Roles
+## Roles (Segment 1)
 - GitHub: Jean-Marie
 - Database: Dillon
 - ML Model: Logan

@@ -1,6 +1,5 @@
 # covid-19_data-set-Group-IV
 ## Determine principal components most likely to contribute to a higher death rate in a particular country.
-
 ## Factors
 -POPULATION
 -POPULATION DENSITY

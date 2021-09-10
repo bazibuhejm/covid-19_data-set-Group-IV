@@ -19,6 +19,11 @@ Determine principal components most likely to contribute to a higher death rate 
 - PCA
 - K-Means 
 
+## Unsupervised Learning Flowchart
+
+![image](https://user-images.githubusercontent.com/81878169/132781422-64f37ff3-e194-450e-aeff-baf2d02506b8.png)
+
+
 ## Factors
 - POPULATION
 - POPULATION DENSITY

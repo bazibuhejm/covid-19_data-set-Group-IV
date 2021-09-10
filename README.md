@@ -25,8 +25,10 @@ We want to try and find a correlation between different vaccines, their effectiv
 ## .csv's used
 Country_vaccinations_by_manufacturer.csv
  - This csv had each country and the vaccines that are used. This included the dates that people were vaccinated
+ - 
 owid-covid-data.csv
  - Has number of vaccines, deaths, diabetes prevalence, hospital beds. Basically everything that we would need to cluster together.
+ - 
 country_vaccinations.csv
  - Thsi csv has daily vaccinations and country/iso_code.
 

@@ -52,13 +52,13 @@ country_vaccinations.csv
 - GDP PER CAPITA
 - HOSPITAL BEDS PER THOUSAND
  
-Determine:
-Is country high_risk for covid related deaths?
+## Questions to be answered
+What factors determine a country as high_risk for covid related deaths?
 -          Hospital beds
 -          Commorbidity
 -          Vax rate
-How many deaths can be attributable to covid, but not classified as such?
-Excess deaths
+-          Vaccine Manufacturer
+
 
 ## Questions to ask for week 2.
 - Where does the Postsql database "live"?

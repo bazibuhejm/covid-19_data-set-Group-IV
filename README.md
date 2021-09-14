@@ -28,6 +28,10 @@ Country_vaccinations_by_manufacturer.csv
  
 owid-covid-data.csv
  - Has number of vaccines, deaths, diabetes prevalence, hospital beds. Basically everything that we would need to cluster together.
+ - Filtered and correlated:
+ 
+ ![image](https://user-images.githubusercontent.com/81878169/133195849-1ec4ac83-f59f-44d9-9a4f-8a5d7e5e1c2e.png)
+
 
 country_vaccinations.csv
  - Thsi csv has daily vaccinations and country/iso_code.

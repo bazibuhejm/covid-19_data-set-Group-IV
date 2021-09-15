@@ -28,9 +28,7 @@ Country_vaccinations_by_manufacturer.csv
  
 owid-covid-data.csv
  - Has number of vaccines, deaths, diabetes prevalence, hospital beds. Basically everything that we would need to cluster together.
- - Heatmap of owid-covid-data.csv:
 
-![image](https://user-images.githubusercontent.com/81878169/133195449-93a1efc5-62ae-4632-8f92-210f35c3eee3.png)
 
 
 country_vaccinations.csv

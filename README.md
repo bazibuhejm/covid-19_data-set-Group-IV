@@ -28,7 +28,7 @@ Country_vaccinations_by_manufacturer.csv
  
 owid-covid-data.csv
  - Has number of vaccines, deaths, diabetes prevalence, hospital beds. Basically everything that we would need to cluster together.
-![image](https://user-images.githubusercontent.com/81878169/133534047-17484874-cea1-4ec8-8b4f-4e2694ebcaff.png)
+![image](https://user-images.githubusercontent.com/81878169/133534532-96aa94fc-6103-479b-9da7-536ebbcb5c5f.png)
 
 
 

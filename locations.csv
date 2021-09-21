@@ -1,0 +1,223 @@
+location,iso_code,vaccines,last_observation_date,source_name
+Afghanistan,AFG,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",8/31/2021,World Health Organization
+Albania,ALB,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",9/12/2021,Ministry of Health
+Algeria,DZA,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",9/12/2021,World Health Organization
+Andorra,AND,"Oxford/AstraZeneca, Pfizer/BioNTech",8/29/2021,Government of Andorra
+Angola,AGO,Oxford/AstraZeneca,9/11/2021,World Health Organization
+Anguilla,AIA,Oxford/AstraZeneca,9/10/2021,World Health Organization
+Antigua and Barbuda,ATG,Oxford/AstraZeneca,9/10/2021,Ministry of Health
+Argentina,ARG,"CanSino, Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",9/13/2021,Ministry of Health
+Armenia,ARM,"Oxford/AstraZeneca, Sinovac, Sputnik V",9/12/2021,Ministry of Health
+Aruba,ABW,Pfizer/BioNTech,9/13/2021,Government of Aruba
+Australia,AUS,"Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,Government of Australia via covidlive.com.au
+Austria,AUT,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,Ministry of Health
+Azerbaijan,AZE,"Oxford/AstraZeneca, Sinovac, Sputnik V",9/13/2021,Government of Azerbaijan
+Bahamas,BHS,Oxford/AstraZeneca,9/10/2021,Pan American Health Organization
+Bahrain,BHR,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",9/13/2021,Ministry of Health
+Bangladesh,BGD,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",9/13/2021,Directorate General of Health Services
+Barbados,BRB,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",9/12/2021,Ministry of Health
+Belarus,BLR,"Sinopharm/Beijing, Sputnik V",9/5/2021,World Health Organization
+Belgium,BEL,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,Sciensano
+Belize,BLZ,"Oxford/AstraZeneca, Sinopharm/Beijing",9/9/2021,Ministry of Health
+Benin,BEN,"Oxford/AstraZeneca, Sinovac",9/9/2021,Ministry of Health
+Bermuda,BMU,"Oxford/AstraZeneca, Pfizer/BioNTech",9/10/2021,Pan American Health Organization
+Bhutan,BTN,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",9/5/2021,World Health Organization
+Bolivia,BOL,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",9/12/2021,Ministry of Health
+Bonaire Sint Eustatius and Saba,BES,"Moderna, Pfizer/BioNTech",9/1/2021,World Health Organization
+Bosnia and Herzegovina,BIH,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",9/7/2021,Public Health Institute
+Botswana,BWA,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",9/9/2021,Africa Centres for Disease Control and Prevention
+Brazil,BRA,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",9/12/2021,Ministry of Health
+British Virgin Islands,VGB,"Johnson&Johnson, Oxford/AstraZeneca",9/3/2021,World Health Organization
+Brunei,BRN,"Oxford/AstraZeneca, Sinopharm/Beijing",9/12/2021,Ministry of Health
+Bulgaria,BGR,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,Ministry of Health
+Burkina Faso,BFA,Oxford/AstraZeneca,9/12/2021,World Health Organization
+Cambodia,KHM,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",9/13/2021,Ministry of Health
+Cameroon,CMR,"Oxford/AstraZeneca, Sinopharm/Beijing",9/12/2021,World Health Organization
+Canada,CAN,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,Official data from provinces via covid19tracker.ca
+Cape Verde,CPV,"Oxford/AstraZeneca, Pfizer/BioNTech",9/11/2021,World Health Organization
+Cayman Islands,CYM,"Oxford/AstraZeneca, Pfizer/BioNTech",9/11/2021,Cayman Islands Government
+Central African Republic,CAF,"Covaxin, Oxford/AstraZeneca",9/9/2021,Africa Centres for Disease Control and Prevention
+Chad,TCD,Sinopharm/Beijing,9/12/2021,Africa Centres for Disease Control and Prevention
+Chile,CHL,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",9/12/2021,"Ministerio de Ciencia, Tecnología, Conocimiento e Innovación"
+China,CHN,"CanSino, Sinopharm/Beijing, Sinopharm/Wuhan, Sinovac, ZF2001",9/13/2021,National Health Commission
+Colombia,COL,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",9/10/2021,Ministry of Health
+Comoros,COM,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing",9/9/2021,World Health Organization
+Congo,COG,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",9/9/2021,Africa Centres for Disease Control and Prevention
+Cook Islands,COK,Oxford/AstraZeneca,8/31/2021,SPC Public Health Division
+Costa Rica,CRI,"Oxford/AstraZeneca, Pfizer/BioNTech",9/8/2021,Costa Rican Social Security Fund
+Cote d'Ivoire,CIV,Oxford/AstraZeneca,9/13/2021,Ministry of Health and Public Hygiene
+Croatia,HRV,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,Ministry of Health
+Cuba,CUB,"Abdala, Soberana02",9/11/2021,Ministry of Health
+Curacao,CUW,"Moderna, Pfizer/BioNTech",9/11/2021,Government of Curacao
+Cyprus,CYP,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/11/2021,Ministry of Health
+Czechia,CZE,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,Ministry of Health
+Democratic Republic of Congo,COD,Oxford/AstraZeneca,9/11/2021,World Health Organization
+Denmark,DNK,"Johnson&Johnson, Moderna, Pfizer/BioNTech",9/12/2021,Statens Serum Institute
+Djibouti,DJI,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",9/9/2021,World Health Organization
+Dominica,DMA,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",9/10/2021,Pan American Health Organization
+Dominican Republic,DOM,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",9/12/2021,Ministry of Public Health
+Ecuador,ECU,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",9/10/2021,Government of Ecuador via Ecuacovid
+Egypt,EGY,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",9/11/2021,World Health Organization
+El Salvador,SLV,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",9/13/2021,Ministry of Health
+England,OWID_ENG,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,Government of the United Kingdom
+Equatorial Guinea,GNQ,Sinopharm/Beijing,9/10/2021,Ministry of Health
+Estonia,EST,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,National Health Board
+Eswatini,SWZ,Oxford/AstraZeneca,9/8/2021,World Health Organization
+Ethiopia,ETH,Oxford/AstraZeneca,9/13/2021,Ministry of Health
+Faeroe Islands,FRO,"Moderna, Pfizer/BioNTech",9/10/2021,Government of the Faeroe Islands
+Falkland Islands,FLK,Oxford/AstraZeneca,4/14/2021,Government of the Falkland Islands
+Fiji,FJI,Oxford/AstraZeneca,9/7/2021,SPC Public Health Division
+Finland,FIN,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,Finnish Institute for Health and Welfare
+France,FRA,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,Public Health France
+French Polynesia,PYF,"Johnson&Johnson, Pfizer/BioNTech",9/7/2021,SPC Public Health Division
+Gabon,GAB,Sinopharm/Beijing,9/3/2021,Africa Centres for Disease Control and Prevention
+Gambia,GMB,"Oxford/AstraZeneca, Sinopharm/Beijing",9/7/2021,Africa Centres for Disease Control and Prevention
+Georgia,GEO,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",9/12/2021,National Center for Disease Control and Public Health
+Germany,DEU,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,Robert Koch Institut
+Ghana,GHA,"Oxford/AstraZeneca, Sputnik V",7/19/2021,World Health Organization
+Gibraltar,GIB,Pfizer/BioNTech,9/11/2021,Government of Gibraltar
+Greece,GRC,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,Ministry of Health
+Greenland,GRL,Moderna,9/13/2021,Government of Greenland
+Grenada,GRD,"Oxford/AstraZeneca, Pfizer/BioNTech",9/10/2021,World Health Organization
+Guatemala,GTM,"Moderna, Oxford/AstraZeneca",9/12/2021,Ministry of Health
+Guernsey,GGY,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,Government of Guernsey
+Guinea,GIN,Sputnik V,9/9/2021,National Health Security Agency
+Guinea-Bissau,GNB,"Oxford/AstraZeneca, Sinopharm/Beijing",8/23/2021,World Health Organization
+Guyana,GUY,"Oxford/AstraZeneca, Sputnik V",9/9/2021,Ministry of Health
+Haiti,HTI,"Johnson&Johnson, Oxford/AstraZeneca",9/9/2021,Pan American Health Organization
+Honduras,HND,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",9/9/2021,World Health Organization
+Hong Kong,HKG,"Pfizer/BioNTech, Sinovac",9/13/2021,Government of Hong Kong
+Hungary,HUN,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",9/13/2021,Government of Hungary
+Iceland,ISL,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/10/2021,Directorate of Health
+India,IND,"Covaxin, Oxford/AstraZeneca, Sputnik V",9/13/2021,Government of India
+Indonesia,IDN,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",9/13/2021,Ministry of Health
+Iran,IRN,"COVIran Barekat, Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",9/12/2021,World Health Organization
+Iraq,IRQ,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",9/8/2021,World Health Organization
+Ireland,IRL,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,Heath Service Executive
+Isle of Man,IMN,"Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,Isle of Man Government
+Israel,ISR,"Moderna, Pfizer/BioNTech",9/13/2021,Government of Israel
+Italy,ITA,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,Extraordinary commissioner for the Covid-19 emergency
+Jamaica,JAM,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,Ministry of Health
+Japan,JPN,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,Prime Minister's Office
+Jersey,JEY,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/8/2021,Government of Jersey
+Jordan,JOR,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",9/13/2021,Government of Jordan
+Kazakhstan,KAZ,"QazVac, Sinopharm/HayatVax, Sputnik V",9/13/2021,Government of Kazakhstan
+Kenya,KEN,"Oxford/AstraZeneca, Sputnik V",9/12/2021,Ministry of Health
+Kiribati,KIR,Oxford/AstraZeneca,9/3/2021,SPC Public Health Division
+Kosovo,OWID_KOS,"Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,Ministry of Health
+Kuwait,KWT,Pfizer/BioNTech,8/14/2021,Ministry of Health
+Kyrgyzstan,KGZ,"Sinopharm/Beijing, Sputnik V",9/13/2021,Ministry of Health
+Laos,LAO,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",9/11/2021,World Health Organization
+Latvia,LVA,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,National Health Service
+Lebanon,LBN,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",9/13/2021,Government of Lebanon
+Lesotho,LSO,Oxford/AstraZeneca,8/28/2021,World Health Organization
+Liberia,LBR,Oxford/AstraZeneca,8/23/2021,World Health Organization
+Libya,LBY,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",9/10/2021,World Health Organization
+Liechtenstein,LIE,"Moderna, Pfizer/BioNTech",9/12/2021,Federal Office of Public Health
+Lithuania,LTU,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,Ministry of Health
+Luxembourg,LUX,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,Government of Luxembourg
+Macao,MAC,"Pfizer/BioNTech, Sinopharm/Beijing",9/13/2021,Government of Macao
+Madagascar,MDG,Oxford/AstraZeneca,9/6/2021,World Health Organization
+Malawi,MWI,"Johnson&Johnson, Oxford/AstraZeneca",9/13/2021,Ministry of Health
+Malaysia,MYS,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",9/13/2021,Government of Malaysia
+Maldives,MDV,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",9/10/2021,Presidency of the Maldives
+Mali,MLI,Oxford/AstraZeneca,9/13/2021,World Health Organization
+Malta,MLT,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,COVID-19 Malta Public Health Response Team
+Mauritania,MRT,"Oxford/AstraZeneca, Sinopharm/Beijing",9/9/2021,Africa Centres for Disease Control and Prevention
+Mauritius,MUS,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing",9/9/2021,World Health Organization
+Mexico,MEX,"CanSino, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",9/12/2021,Secretary of Health
+Moldova,MDA,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",9/13/2021,Ministry of Health
+Monaco,MCO,Pfizer/BioNTech,9/9/2021,National Council
+Mongolia,MNG,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",9/13/2021,Ministry of Health via ikon.mn
+Montenegro,MNE,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",9/13/2021,Government of Montenegro
+Montserrat,MSR,Oxford/AstraZeneca,9/10/2021,World Health Organization
+Morocco,MAR,"Oxford/AstraZeneca, Sinopharm/Beijing",9/10/2021,Ministry of Health
+Mozambique,MOZ,"Oxford/AstraZeneca, Sinopharm/Beijing",9/8/2021,World Health Organization
+Myanmar,MMR,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",8/21/2021,World Health Organization
+Namibia,NAM,"Oxford/AstraZeneca, Sinopharm/Beijing",9/9/2021,Africa Centres for Disease Control and Prevention
+Nauru,NRU,Oxford/AstraZeneca,8/31/2021,World Health Organization
+Nepal,NPL,"Oxford/AstraZeneca, Sinopharm/Beijing",9/13/2021,Government of Nepal
+Netherlands,NLD,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,RIVM via European CDC
+New Caledonia,NCL,Pfizer/BioNTech,9/7/2021,SPC Public Health Division
+New Zealand,NZL,Pfizer/BioNTech,9/13/2021,Ministry of Health
+Nicaragua,NIC,"Oxford/AstraZeneca, Sputnik V",9/10/2021,World Health Organization
+Niger,NER,"Oxford/AstraZeneca, Sinopharm/Beijing",8/28/2021,World Health Organization
+Nigeria,NGA,Oxford/AstraZeneca,9/12/2021,World Health Organization
+Niue,NIU,Oxford/AstraZeneca,8/2/2021,SPC Public Health Division
+North Macedonia,MKD,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",9/11/2021,Government of North Macedonia
+Northern Cyprus,OWID_CYN,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",8/15/2021,Ministry of Health
+Northern Ireland,OWID_NIR,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,Government of the United Kingdom
+Norway,NOR,"Moderna, Pfizer/BioNTech",9/12/2021,Norwegian Institute of Public Health
+Oman,OMN,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",9/5/2021,World Health Organization
+Pakistan,PAK,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",9/12/2021,National Command and Operation Centre
+Palestine,PSE,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",9/9/2021,Ministry of Health
+Panama,PAN,"Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,Pan American Health Organization
+Papua New Guinea,PNG,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",8/30/2021,SPC Public Health Division
+Paraguay,PRY,"Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",9/10/2021,Pan American Health Organization
+Peru,PER,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",9/11/2021,Ministerio de Salud via github.com/jmcastagnetto/covid-19-peru-vacunas
+Philippines,PHL,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",9/13/2021,Department of Health via ABS-CBN Investigative and Research Group
+Pitcairn,PCN,Oxford/AstraZeneca,9/7/2021,SPC Public Health Division
+Poland,POL,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,Ministry of Health
+Portugal,PRT,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,Directorate General for Health via Data Science for Social Good
+Qatar,QAT,"Moderna, Pfizer/BioNTech",9/13/2021,Ministry of Public Health
+Romania,ROU,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,Government of Romania via datelazi.ro
+Russia,RUS,"EpiVacCorona, Sputnik V",9/13/2021,Official data from local governments via gogov.ru
+Rwanda,RWA,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,World Health Organization
+Saint Helena,SHN,Oxford/AstraZeneca,5/5/2021,Government of Saint Helena
+Saint Kitts and Nevis,KNA,"Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,Pan American Health Organization
+Saint Lucia,LCA,Oxford/AstraZeneca,8/30/2021,Ministry of Health
+Saint Vincent and the Grenadines,VCT,Oxford/AstraZeneca,9/12/2021,Ministry of Health
+Samoa,WSM,Oxford/AstraZeneca,9/7/2021,SPC Public Health Division
+San Marino,SMR,"Pfizer/BioNTech, Sputnik V",9/9/2021,Social Security Institute
+Sao Tome and Principe,STP,Oxford/AstraZeneca,9/10/2021,World Health Organization
+Saudi Arabia,SAU,"Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,Saudi Health Council
+Scotland,OWID_SCT,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,Government of the United Kingdom
+Senegal,SEN,"Oxford/AstraZeneca, Sinopharm/Beijing",9/9/2021,World Health Organization
+Serbia,SRB,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",9/12/2021,Government of Serbia
+Seychelles,SYC,"Oxford/AstraZeneca, Sinopharm/Beijing",9/6/2021,World Health Organization
+Sierra Leone,SLE,"Oxford/AstraZeneca, Sinopharm/Beijing",9/13/2021,World Health Organization
+Singapore,SGP,"Moderna, Pfizer/BioNTech, Sinovac",9/12/2021,Ministry of Health
+Sint Maarten (Dutch part),SXM,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/10/2021,World Health Organization
+Slovakia,SVK,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,Ministry of Health
+Slovenia,SVN,"Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,National Institute of Public Health via covid-19.sledilnik.org
+Solomon Islands,SLB,"Oxford/AstraZeneca, Sinopharm/Beijing",9/3/2021,SPC Public Health Division
+Somalia,SOM,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",9/11/2021,World Health Organization
+South Africa,ZAF,"Johnson&Johnson, Pfizer/BioNTech",9/13/2021,Ministry of Health
+South Korea,KOR,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/13/2021,Korea Centers for Disease Control and Prevention
+South Sudan,SSD,Oxford/AstraZeneca,9/8/2021,World Health Organization
+Spain,ESP,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,Ministry of Health
+Sri Lanka,LKA,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",9/13/2021,Ministry of Health's Epidemiology Unit
+Sudan,SDN,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",9/8/2021,World Health Organization
+Suriname,SUR,Oxford/AstraZeneca,9/13/2021,Government of Suriname
+Sweden,SWE,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/10/2021,Public Health Agency of Sweden
+Switzerland,CHE,"Moderna, Pfizer/BioNTech",9/12/2021,Federal Office of Public Health
+Syria,SYR,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",8/30/2021,World Health Organization
+Taiwan,TWN,"Medigen, Moderna, Oxford/AstraZeneca",9/13/2021,Taiwan Centers for Disease Control
+Tajikistan,TJK,"Moderna, Oxford/AstraZeneca, Sinovac",9/6/2021,World Health Organization
+Tanzania,TZA,Johnson&Johnson,9/11/2021,World Health Organization
+Thailand,THA,"Oxford/AstraZeneca, Sinovac",9/13/2021,Government of Thailand
+Timor,TLS,"Oxford/AstraZeneca, Sinovac",9/7/2021,World Health Organization
+Togo,TGO,Oxford/AstraZeneca,9/5/2021,World Health Organization
+Tokelau,TKL,Pfizer/BioNTech,8/16/2021,SPC Public Health Division
+Tonga,TON,Oxford/AstraZeneca,8/31/2021,SPC Public Health Division
+Trinidad and Tobago,TTO,"Oxford/AstraZeneca, Sinopharm/Beijing",9/13/2021,Ministry of Health
+Tunisia,TUN,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",9/12/2021,Ministry of Health
+Turkey,TUR,"Pfizer/BioNTech, Sinovac",9/13/2021,COVID-19 Vaccine Information Platform
+Turkmenistan,TKM,"EpiVacCorona, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",4/4/2021,World Health Organization
+Turks and Caicos Islands,TCA,Pfizer/BioNTech,9/10/2021,World Health Organization
+Tuvalu,TUV,Oxford/AstraZeneca,8/26/2021,World Health Organization
+Uganda,UGA,Oxford/AstraZeneca,9/1/2021,World Health Organization
+Ukraine,UKR,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",9/13/2021,Ministry of Health
+United Arab Emirates,ARE,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinopharm/Wuhan, Sputnik V",9/13/2021,National Emergency Crisis and Disaster Management Authority
+United Kingdom,GBR,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,Government of the United Kingdom
+United States,USA,"Johnson&Johnson, Moderna, Pfizer/BioNTech",9/13/2021,Centers for Disease Control and Prevention
+Uruguay,URY,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",9/13/2021,Ministry of Health via vacuna.uy
+Uzbekistan,UZB,"Oxford/AstraZeneca, Sputnik V, ZF2001",9/9/2021,Government of Uzbekistan
+Vanuatu,VUT,"Oxford/AstraZeneca, Sinopharm/Beijing",9/5/2021,SPC Public Health Division
+Venezuela,VEN,"Sinopharm/Beijing, Sinopharm/Wuhan, Sputnik V",9/10/2021,Pan American Health Organization
+Vietnam,VNM,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",9/12/2021,Government of Vietnam
+Wales,OWID_WLS,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9/12/2021,Government of the United Kingdom
+Wallis and Futuna,WLF,Oxford/AstraZeneca,8/31/2021,SPC Public Health Division
+Yemen,YEM,"Johnson&Johnson, Oxford/AstraZeneca",9/12/2021,World Health Organization
+Zambia,ZMB,"Oxford/AstraZeneca, Sinopharm/Beijing",9/8/2021,Government of Zambia
+Zimbabwe,ZWE,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",9/13/2021,Ministry of Health

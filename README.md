@@ -61,6 +61,10 @@ What factors determine a country as high_risk for covid related deaths?
 -          Commorbidity
 -          Vax rate
 -          Vaccine Manufacturer
+### Example of Map
+
+![image](https://user-images.githubusercontent.com/81878169/134264891-94febe63-fa6e-42c3-8a6f-f60a23e5c690.png)
+
 
 
 ## Questions to ask for week 2.

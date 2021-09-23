@@ -1,39 +1,38 @@
 # Covid-19 Deaths & Vaccinations Analysis
+The purpose of this Analysis is to identify factors that contribute to a lower mortality from COVID-19 worldwide
+
 https://app.diagrams.net/
 
-## Communication Protocols:
+### Communication Protocols:
 - Tuesday Team Meetings @ 7pm
 - Continual communication through Slack
 
-## Selected Topic: Covid-19 Death Rates: 
+### Selected Topic: Covid-19 Death Rates: 
 Determine principal components most likely to contribute to a higher death rate in a particular country.
 - PCA
 - K-Means 
 
-## Reasons for topic choice
+### Reasons for topic choice
 We want to try and find a correlation between different vaccines, their effectiveness, and each country's "covid preparedness".
 
-## Data selection
-
+### Data selection
+https://github.com/owid/covid-19-data
 locations.csv
  - This csv had each country and the vaccines that are used. This included the dates that people were vaccinated
 
 https://ourworldindata.org/covid-deaths
 owid-covid-data.csv
  - Has number of vaccines, deaths, diabetes prevalence, hospital beds. Basically everything that we would need to cluster together.
+
+
 ![image](https://user-images.githubusercontent.com/81878169/133534532-96aa94fc-6103-479b-9da7-536ebbcb5c5f.png)
 
-
-
-country_vaccinations.csv
- - Thsi csv has daily vaccinations and country/iso_code.
-
-## Unsupervised Learning Flowchart
+### Unsupervised Learning Flowchart
 
 ![image](https://user-images.githubusercontent.com/81878169/132781422-64f37ff3-e194-450e-aeff-baf2d02506b8.png)
 
 
-## Factors
+### Factors
 - POPULATION
 - POPULATION DENSITY
 - AGE OF POPULATION
@@ -48,24 +47,21 @@ country_vaccinations.csv
 - GDP PER CAPITA
 - HOSPITAL BEDS PER THOUSAND
  
-## Questions to be answered
+### Questions to be answered
 What factors determine a country as high_risk for covid related deaths?
--          Hospital beds
--          Commorbidity
--          Vax rate
--          Vaccine Manufacturer
-### Example of Map
+
+#### Example of Map
 
 ![image](https://user-images.githubusercontent.com/81878169/134264891-94febe63-fa6e-42c3-8a6f-f60a23e5c690.png)
 
-### Test Dashboard Images
+#### Test Dashboard Images
 
 ![image](https://user-images.githubusercontent.com/81878169/134265081-e2d0d6e3-b95a-4adc-86b4-44afc9a6bc1e.png)
 
 ![image](https://user-images.githubusercontent.com/81878169/134265114-db269260-b345-46ae-b12e-ddcc8715abdf.png)
 
 
-### Database connection example code:
+#### Database connection example code:
     # Database engine connection
     db_string = f"postgresql://postgres:{db_password}@127.0.0.1:5434/movie_data"
     engine = create_engine(db_string)

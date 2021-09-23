@@ -26,7 +26,10 @@ owid-covid-data.csv
 ## Data exploration
 Initially data was chosen from kaggle.com, however some of the data was not complete enough and had to be exchanged for more complete data.
 
-Some preliminary analysis and sketchup is below:
+
+## Data Analysis
+Using unsupervised machine learning, a dataset of more that 25 different factors will be processed in order to determine which variables hold the most significant correlation with lower death rates.
+
 
 ![image](https://user-images.githubusercontent.com/81878169/133534532-96aa94fc-6103-479b-9da7-536ebbcb5c5f.png)
 
@@ -77,6 +80,3 @@ Some preliminary analysis and sketchup is below:
     connection.commit()
     # Closing the connection
     connection.close()
-
-## Data Analysis
-Using unsupervised machine learning, a dataset of more that 25 different factors will be processed in order to determine which variables hold the most significant correlation with lower death rates.

@@ -28,6 +28,9 @@ Country_vaccinations_by_manufacturer.csv
  
 owid-covid-data.csv
  - Has number of vaccines, deaths, diabetes prevalence, hospital beds. Basically everything that we would need to cluster together.
+![image](https://user-images.githubusercontent.com/81878169/133534532-96aa94fc-6103-479b-9da7-536ebbcb5c5f.png)
+
+
 
 country_vaccinations.csv
  - Thsi csv has daily vaccinations and country/iso_code.
@@ -58,6 +61,15 @@ What factors determine a country as high_risk for covid related deaths?
 -          Commorbidity
 -          Vax rate
 -          Vaccine Manufacturer
+### Example of Map
+
+![image](https://user-images.githubusercontent.com/81878169/134264891-94febe63-fa6e-42c3-8a6f-f60a23e5c690.png)
+
+### Test Dashboard Images
+
+![image](https://user-images.githubusercontent.com/81878169/134265081-e2d0d6e3-b95a-4adc-86b4-44afc9a6bc1e.png)
+
+![image](https://user-images.githubusercontent.com/81878169/134265114-db269260-b345-46ae-b12e-ddcc8715abdf.png)
 
 
 ## Questions to ask for week 2.

@@ -2,17 +2,8 @@
 https://app.diagrams.net/
 
 ## Communication Protocols:
-- Tuesday Team Meeting @ 7pm
+- Tuesday Team Meetings @ 7pm
 - Continual communication through Slack
-- Team meeting 9/9 @ 7pm
-
-## Roles (Segment 1)
-- GitHub: Jean-Marie
-- Database: Dillon
-- ML Model: Logan
-- Database to ML Model connection: Chris
-- Data ETL: All
-
 
 ## Selected Topic: Covid-19 Death Rates: 
 Determine principal components most likely to contribute to a higher death rate in a particular country.

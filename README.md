@@ -30,6 +30,7 @@ Initially data was chosen from kaggle.com, however some of the data was not comp
 ## Data Analysis
 Using unsupervised machine learning, a dataset of more that 25 different factors will be processed in order to determine which variables hold the most significant correlation with lower death rates.
 
+![image](https://github.com/bazibuhejm/covid-19_data-set-Group-IV/blob/main/Resources/PNG%20files/Vac%20VS%20Death%20VS%20GDP.PNG)
 
 ![image](https://user-images.githubusercontent.com/81878169/133534532-96aa94fc-6103-479b-9da7-536ebbcb5c5f.png)
 

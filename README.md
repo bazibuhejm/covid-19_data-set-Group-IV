@@ -13,7 +13,7 @@ Determine principal components most likely to contribute to a higher death rate 
 - K-Means 
 
 ### Reasons for topic choice
-We want to try and find a correlation between different vaccines, their effectiveness, and each country's "covid preparedness".
+COVID-19 has ripped across the globe and has been a major source of disruption for the majority of the past two years. Data continues to emerge and discoveries about what contributes to a lower death rate are stil being made. Given the amount of damage done it is extremely important learn everything we can about this disease.
 
 ### Data selection
 https://github.com/owid/covid-19-data
@@ -23,6 +23,7 @@ locations.csv
 https://ourworldindata.org/covid-deaths
 owid-covid-data.csv
  - Has number of vaccines, deaths, diabetes prevalence, hospital beds. Basically everything that we would need to cluster together.
+
 
 
 ![image](https://user-images.githubusercontent.com/81878169/133534532-96aa94fc-6103-479b-9da7-536ebbcb5c5f.png)

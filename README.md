@@ -72,10 +72,6 @@ What factors determine a country as high_risk for covid related deaths?
 ![image](https://user-images.githubusercontent.com/81878169/134265114-db269260-b345-46ae-b12e-ddcc8715abdf.png)
 
 
-## Questions to ask for week 2.
-- Where does the Postsql database "live"?
-  - Do we need our own copy on each of our computers?
-
 ### Database connection example code:
     # Database engine connection
     db_string = f"postgresql://postgres:{db_password}@127.0.0.1:5434/movie_data"

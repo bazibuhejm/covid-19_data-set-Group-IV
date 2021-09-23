@@ -11,12 +11,14 @@ Determine principal components most likely to contribute to a higher death rate 
 - K-Means 
 
 ## Reasons for topic choice
-We want to try and find a correlation between different vaccines, their effectiveness, and each countrys "covid prepardness".
+We want to try and find a correlation between different vaccines, their effectiveness, and each country's "covid preparedness".
 
-## .csv's used
-Country_vaccinations_by_manufacturer.csv
+## Data selection
+
+locations.csv
  - This csv had each country and the vaccines that are used. This included the dates that people were vaccinated
- 
+
+https://ourworldindata.org/covid-deaths
 owid-covid-data.csv
  - Has number of vaccines, deaths, diabetes prevalence, hospital beds. Basically everything that we would need to cluster together.
 ![image](https://user-images.githubusercontent.com/81878169/133534532-96aa94fc-6103-479b-9da7-536ebbcb5c5f.png)

@@ -5,17 +5,12 @@ https://app.diagrams.net/
 
 ### Communication Protocols:
 - Tuesday Team Meetings @ 7pm
-- Continual communication through Slack
+- Ongoing communication through Slack
 
-### Selected Topic: Covid-19 Death Rates: 
-Determine principal components most likely to contribute to a higher death rate in a particular country.
-- PCA
-- K-Means 
-
-### Reasons for topic choice
+## Reasons for topic choice
 COVID-19 has ripped across the globe and has been a major source of disruption for the majority of the past two years. Data continues to emerge and discoveries about what contributes to a lower death rate are stil being made. Given the amount of damage done it is extremely important learn everything we can about this disease.
 
-### Data selection
+## Data selection
 https://github.com/owid/covid-19-data
 locations.csv
  - This csv had each country and the vaccines that are used. This included the dates that people were vaccinated
@@ -24,7 +19,14 @@ https://ourworldindata.org/covid-deaths
 owid-covid-data.csv
  - Has number of vaccines, deaths, diabetes prevalence, hospital beds. Basically everything that we would need to cluster together.
 
+## Question to be answered
+- What factors significantly contribute to a lower death rate from infections of the COVID-19 pandemic
+- What factors would categorize a country as "high_risk"
+- 
+## Data exploration
+Initially data was chosen from kaggle.com, however some of the data was not complete enough and had to be exchanged for more complete data.
 
+Some preliminary analysis and sketchup is below:
 
 ![image](https://user-images.githubusercontent.com/81878169/133534532-96aa94fc-6103-479b-9da7-536ebbcb5c5f.png)
 
@@ -48,9 +50,6 @@ owid-covid-data.csv
 - GDP PER CAPITA
 - HOSPITAL BEDS PER THOUSAND
  
-### Questions to be answered
-What factors determine a country as high_risk for covid related deaths?
-
 #### Example of Map
 
 ![image](https://user-images.githubusercontent.com/81878169/134264891-94febe63-fa6e-42c3-8a6f-f60a23e5c690.png)
@@ -78,3 +77,5 @@ What factors determine a country as high_risk for covid related deaths?
     connection.commit()
     # Closing the connection
     connection.close()
+
+## Data Analysis

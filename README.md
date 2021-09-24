@@ -34,6 +34,9 @@ Using unsupervised machine learning, a dataset of more that 25 different factors
 
 ![image](https://user-images.githubusercontent.com/81878169/133534532-96aa94fc-6103-479b-9da7-536ebbcb5c5f.png)
 
+![image](https://user-images.githubusercontent.com/81878169/134742417-a85b7f51-e90e-4326-ab32-486e45edd41c.png)
+
+
 ### Unsupervised Learning Flowchart
 
 ![image](https://user-images.githubusercontent.com/81878169/132781422-64f37ff3-e194-450e-aeff-baf2d02506b8.png)

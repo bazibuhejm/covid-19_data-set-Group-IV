@@ -23,6 +23,8 @@ owid-covid-data.csv
 - What factors significantly contribute to a lower death rate from infections of the COVID-19 pandemic
 - What factors would categorize a country as "high_risk"
 
+# Machine Learning Model
+
 ## Data exploration
 Initially data was chosen from kaggle.com, however some of the data was not complete enough and had to be exchanged for more complete data.
 

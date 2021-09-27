@@ -1,6 +1,6 @@
 # Covid-19 Deaths & Vaccinations Analysis
 The purpose of this Analysis is to identify factors that contribute to a lower mortality from COVID-19 worldwide
-
+Presentation outline - https://docs.google.com/presentation/d/1YLNVc4fpKc0PblaciqoOllDkWbz_0_rzXldT66eyRGU/edit?usp=sharing
 https://app.diagrams.net/
 
 ### Communication Protocols:

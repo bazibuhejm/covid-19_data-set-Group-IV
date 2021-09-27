@@ -28,9 +28,14 @@ owid-covid-data.csv
 ## Data exploration
 Initially data was chosen from kaggle.com, however some of the data was not complete enough and had to be exchanged for more complete data.
 
-
 ## Data Analysis
 Using unsupervised machine learning, a dataset of more that 25 different factors will be processed in order to determine which variables hold the most significant correlation with lower death rates.
+
+## Training and testing
+The main thing we are looking at is how many clusters we want to have. While looking at our first iteration, we found that china is in a class of its own, so further analysis will be needed there.
+
+## Why unsupervised machine learning
+We chose the unsupervised model mainly because we are looking to cluster up countries based on their overall handling of covid 19 and the vaccinations they use. The major downside of unsupervised learning is the results we receive are less accurate than a supervised model.
 
 ![image](https://github.com/bazibuhejm/covid-19_data-set-Group-IV/blob/main/Vac%20VS%20Death%20VS%20GDP.PNG)
 

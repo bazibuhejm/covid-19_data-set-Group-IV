@@ -70,21 +70,3 @@ We chose the unsupervised model mainly because we are looking to cluster up coun
 ![image](https://user-images.githubusercontent.com/81878169/134265081-e2d0d6e3-b95a-4adc-86b4-44afc9a6bc1e.png)
 
 ![image](https://user-images.githubusercontent.com/81878169/134265114-db269260-b345-46ae-b12e-ddcc8715abdf.png)
-
-
-#### Database connection example code:
-    # Database engine connection
-    db_string = f"postgresql://postgres:{db_password}@127.0.0.1:5434/movie_data"
-    engine = create_engine(db_string)
-    movies_df.to_sql(name='movies', con=engine, if_exists='replace')
-    
-    # Opening a connection
-    connection = engine.raw_connection()
-    # Creating a cursor object using the cursor() method
-    cursor = connection.cursor()
-    # Droping ratings table if already exists
-    cursor.execute("DROP TABLE IF EXISTS ratings")
-    # Commit your changes in the database
-    connection.commit()
-    # Closing the connection
-    connection.close()

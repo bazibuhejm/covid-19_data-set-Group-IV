@@ -4,10 +4,6 @@ The purpose of this Analysis is to identify factors that contribute to a lower m
 Presentation outline - https://docs.google.com/presentation/d/1YLNVc4fpKc0PblaciqoOllDkWbz_0_rzXldT66eyRGU/edit?usp=sharing
 https://app.diagrams.net/
 
-### Communication Protocols:
-- Tuesday Team Meetings @ 7pm
-- Ongoing communication through Slack
-
 ## Reasons for topic choice
 COVID-19 has ripped across the globe and has been a major source of disruption for the majority of the past two years. Data continues to emerge and discoveries about what contributes to a lower death rate are stil being made. Given the amount of damage done it is extremely important learn everything we can about this disease.
 

@@ -34,6 +34,9 @@ The main thing we are looking at is how many clusters we want to have. While loo
 ## Why unsupervised machine learning
 We chose the unsupervised model mainly because we are looking to cluster up countries based on their overall handling of covid 19 and the vaccinations they use. The major downside of unsupervised learning is the results we receive are less accurate than a supervised model.
 
+## Update on training and testing
+After looking at our output, we decided to run different our program again but with different amounts of clusters. Some interesting things to note, United States and India were always paired together until the clusters were brought down to 2. China was usually by themselves which we think is due to unfaithful reporting on their part. We decided to stick with our 5 clusters as it has some strong outliers that can be some good focus points.
+
 ![image](https://github.com/bazibuhejm/covid-19_data-set-Group-IV/blob/main/Vac%20VS%20Death%20VS%20GDP.PNG)
 
 ![image](https://user-images.githubusercontent.com/81878169/133534532-96aa94fc-6103-479b-9da7-536ebbcb5c5f.png)

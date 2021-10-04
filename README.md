@@ -40,7 +40,7 @@ We chose the unsupervised model mainly because we are looking to cluster up coun
 ## Update on training and testing
 After looking at our output, we decided to run our program again but with different amounts of clusters. Some interesting things to note, United States and India were always paired together until the clusters were brought down to 2. China was usually by themselves which we think is due to unfaithful reporting on their part. We decided to stick with our 5 clusters as it has some strong outliers that can be some good focus points.
 
-![image](https://github.com/bazibuhejm/covid-19_data-set-Group-IV/blob/main/Resources/PNG%20files/Vac%20VS%20Death%20VS%20GDP.PNG)
+![image](https://github.com/bazibuhejm/covid-19_data-set-Group-IV/blob/main/Resources/PNG%20files/GDP%20vs%20Deaths.PNG)
 
 ![image](https://github.com/bazibuhejm/covid-19_data-set-Group-IV/blob/main/Resources/PNG%20files/All%20Class%20vs%20Deaths%20vs%20Vax.PNG)
 

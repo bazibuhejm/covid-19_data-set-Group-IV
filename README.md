@@ -82,3 +82,8 @@ After looking at our output, we decided to run our program again but with differ
 ![image](https://user-images.githubusercontent.com/81878169/134265081-e2d0d6e3-b95a-4adc-86b4-44afc9a6bc1e.png)
 
 ![image](https://user-images.githubusercontent.com/81878169/134265114-db269260-b345-46ae-b12e-ddcc8715abdf.png)
+
+
+# Dashboard
+
+https://public.tableau.com/app/profile/chris.l.minter/viz/GroupIVFinalProject/Story1?publish=yes

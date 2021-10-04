@@ -5,7 +5,7 @@ Presentation outline - https://docs.google.com/presentation/d/1YLNVc4fpKc0Pblaci
 https://app.diagrams.net/
 
 ## Reasons for topic choice
-COVID-19 has ripped across the globe and has been a major source of disruption for the majority of the past two years. Data continues to emerge and discoveries about what contributes to a lower death rate are stil being made. Given the amount of damage done it is extremely important learn everything we can about this disease.
+COVID-19 has ripped across the globe and has been a major source of disruption for the majority of the past two years. Data continues to emerge and discoveries about what contributes to a lower death rate are stil being made. Given the amount of damage done it is extremely important we learn everything we can about this disease.
 
 ## Data selection
 https://github.com/owid/covid-19-data

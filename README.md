@@ -25,6 +25,9 @@ owid-covid-data.csv
 ## Data exploration
 Initially data was chosen from kaggle.com, however some of the data was not complete enough and had to be exchanged for more complete data.
 
+## Data preprocessing
+The data preprocessing included removing columns where data was mostly incomplete. For the purpose of the machine learning model the locations.csv had to be one hot encoded. Other considerations for the preprocesing were removing columns that were labeled "new". The data was tablulated in a cumulative fasion so we only took the most recent numbers available. The "new" columns had data that only represented a small segment of time and thus were not usable for our analysis.
+
 ## Data Analysis
 Using unsupervised machine learning, a dataset of more that 25 different factors will be processed in order to determine which variables hold the most significant correlation with lower death rates.
 
@@ -37,7 +40,13 @@ We chose the unsupervised model mainly because we are looking to cluster up coun
 ## Update on training and testing
 After looking at our output, we decided to run our program again but with different amounts of clusters. Some interesting things to note, United States and India were always paired together until the clusters were brought down to 2. China was usually by themselves which we think is due to unfaithful reporting on their part. We decided to stick with our 5 clusters as it has some strong outliers that can be some good focus points.
 
-![image](https://github.com/bazibuhejm/covid-19_data-set-Group-IV/blob/main/Vac%20VS%20Death%20VS%20GDP.PNG)
+![image](https://github.com/bazibuhejm/covid-19_data-set-Group-IV/blob/main/Resources/PNG%20files/Vac%20VS%20Death%20VS%20GDP.PNG)
+
+![image](https://github.com/bazibuhejm/covid-19_data-set-Group-IV/blob/main/Resources/PNG%20files/All%20Class%20vs%20Deaths%20vs%20Vax.PNG)
+
+![image](https://github.com/bazibuhejm/covid-19_data-set-Group-IV/blob/main/Resources/PNG%20files/Deaths%20vs%20Median%20Age.PNG)
+
+![image](https://github.com/bazibuhejm/covid-19_data-set-Group-IV/blob/main/Resources/PNG%20files/Smokers%20vs%20Deaths.PNG)
 
 ![image](https://user-images.githubusercontent.com/81878169/133534532-96aa94fc-6103-479b-9da7-536ebbcb5c5f.png)
 

@@ -87,4 +87,4 @@ After looking at our output, we decided to run our program again but with differ
 
 # Dashboard
 
-https://public.tableau.com/app/profile/dillon3804/viz/Covid19_16333961680110/Dashboard5?publish=yes
+rhttps://public.tableau.com/trusted/WjQOfef8SiyLnkf-_C8uNg==:mvFO4rT_2zAxwsU-XktXf7nb?:redirUrl=%2Fprofile%2Fapi%2Fpublish%2FCovid19_16333961680110%2FCOVID-19Analysis

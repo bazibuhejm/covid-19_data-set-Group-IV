@@ -27,7 +27,7 @@ owid-covid-data.csv
 Initially data was chosen from kaggle.com, however some of the data was not complete enough and had to be exchanged for more complete data.
 
 ## Data preprocessing
-The data preprocessing included removing columns where data was mostly incomplete. For the purpose of the machine learning model the locations.csv had to be one hot encoded. Other considerations for the preprocesing were removing columns that were labeled "new". The data was tablulated in a cumulative fasion so we only took the most recent numbers available. The "new" columns had data that only represented a small segment of time and thus were not usable for our analysis.
+The data preprocessing included removing columns where data was mostly incomplete. For the purpose of the machine learning model the locations.csv had to be one hot encoded. Other considerations for the preprocesing were removing columns that were labeled "new". The data was tablulated in a cumulative fashion so we only took the most recent numbers available. The "new" columns had data that only represented a small segment of time and thus were not usable for our analysis.
 
 ## Data Analysis
 Using unsupervised machine learning, a dataset of more that 25 different factors will be processed in order to determine which variables hold the most significant correlation with lower death rates.
